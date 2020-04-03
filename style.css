@@ -1,0 +1,57 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: Pacifico, cursive;
+	background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+	font-size: 3rem;
+	color: rgb(15, 20, 66);
+}
+
+hr {
+	border-color: rgb(15, 20, 66);
+	border-width: 2px;
+	height: 10px;
+	width: 100px;
+}
+
+.buffer {
+	height: 25rem;
+	position: center;
+}
+
+.btn {
+	border-radius: 300px;
+
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+	background-color: #FF6A00;
+}
+
+.btn-xl:hover {
+	background-color: rgb(15, 20, 66) ;
+	border-color: rgb(15, 20, 66);
+	border-width: 6px;
+}
+
+.btn-primary {
+	border-color:  #FF6A00;
+}
+
+
+
+
+
+
+
+
+
+
